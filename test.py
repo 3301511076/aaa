@@ -1,6 +1,4 @@
 #!/usr/bin/bython
-print("111")
-print("111")
-print("111")
-print("111")
-~           
+print("hello")
+print("hello")
+print("hello")
